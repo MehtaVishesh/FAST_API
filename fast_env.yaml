@@ -1,0 +1,31 @@
+name: fast_env
+channels:
+  - defaults
+dependencies:
+  - anyio=3.5.0=py311hca03da5_0
+  - bzip2=1.0.8=h620ffc9_4
+  - ca-certificates=2023.12.12=hca03da5_0
+  - click=8.1.7=py311hca03da5_0
+  - fastapi=0.103.0=py311hca03da5_0
+  - h11=0.12.0=pyhd3eb1b0_0
+  - idna=3.4=py311hca03da5_0
+  - libffi=3.4.4=hca03da5_0
+  - ncurses=6.4=h313beb8_0
+  - openssl=1.1.1w=h1a28f6b_0
+  - pip=23.3.1=py311hca03da5_0
+  - pydantic=1.10.12=py311h80987f9_1
+  - python=3.11.0=hc0d8a6c_3
+  - readline=8.2=h1a28f6b_0
+  - setuptools=68.2.2=py311hca03da5_0
+  - sniffio=1.2.0=py311hca03da5_1
+  - sqlite=3.41.2=h80987f9_0
+  - starlette=0.27.0=py311hca03da5_0
+  - tk=8.6.12=hb8d0fd4_0
+  - typing-extensions=4.7.1=py311hca03da5_0
+  - typing_extensions=4.7.1=py311hca03da5_0
+  - tzdata=2023d=h04d1e81_0
+  - uvicorn=0.20.0=py311hca03da5_0
+  - wheel=0.41.2=py311hca03da5_0
+  - xz=5.4.5=h80987f9_0
+  - zlib=1.2.13=h5a0b063_0
+prefix: /Users/visheshmehta/anaconda3/envs/fast_env
